@@ -1,0 +1,6 @@
+c:\users\lab3\documents\visual studio 2013\Projects\ClassLibrary1\clase1\bin\Debug\clase1.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\ClassLibrary1\clase1\bin\Debug\clase1.exe
+c:\users\lab3\documents\visual studio 2013\Projects\ClassLibrary1\clase1\bin\Debug\clase1.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\ClassLibrary1\clase1\obj\Debug\clase1.exe
+c:\users\lab3\documents\visual studio 2013\Projects\ClassLibrary1\clase1\obj\Debug\clase1.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\ClassLibrary1\clase1\obj\Debug\clase_principal.csprojResolveAssemblyReference.cache
